@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "maodie-emotion",
+  "name": "耄耋表情包",
+  "version": "1.0.0",
+  "description": "收录 14 张耄耋表情图片，包含 JPG、GIF 和 WebP 格式，适用于调侃、疑问、生气、亲近和日常群聊互动。",
+  "author": "素材整理与维护：cauchy-byte；原素材作者待补充",
+  "homepage": "https://github.com/cauchy-byte/maodie-emotion",
+  "license": "原素材许可未指定；版权归各权利人。",
+  "source": {
+    "type": "github",
+    "repo": "cauchy-byte/maodie-emotion",
+    "ref": "main",
+    "subpath": "耄耋"
+  },
+  "tags": [
+    "maodie",
+    "cat",
+    "耄耋",
+    "mixed-style",
+    "meme-pack"
+  ],
+  "icon": "耄耋王.jpg",
+  "previews": [
+    "耄耋王.jpg",
+    "嘲笑.jpg",
+    "耄耋不知道哦.jpg",
+    "耄耋宠溺.jpg",
+    "耄耋愤怒.jpg"
+  ],
+  "compat": {
+    "min_plugin_version": "4.0.0"
+  },
+  "categories": {
+    "affection": {
+      "description": "用于表达喜欢、宠溺、贴贴或友好亲近。"
+    },
+    "angry": {
+      "description": "用于生气、抗议、催促回应或夸张式威胁；避免用于真实冲突。"
+    },
+    "confused": {
+      "description": "用于疑问、不知道、没听懂、反问或试探性猜测。"
+    },
+    "serious": {
+      "description": "用于表示严肃、认真、强调态度或提醒对方关注当前话题。"
+    },
+    "portrait": {
+      "description": "用于耄耋形象展示、角色扮演、耍帅或非文字化回应。"
+    },
+    "teasing": {
+      "description": "用于玩梗、整活、调侃、轻松吐槽或夸张反应；不用于恶意攻击。"
+    }
+  }
+}
